@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "mirelurk",
+			"path": "."
+		}
+	],
+	"settings": {
+		"C_Cpp.errorSquiggles": "disabled"
+	}
+}
